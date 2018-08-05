@@ -9,11 +9,14 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-
+        
+        <!-- CSS -->
+        <link href="/css/app.css" rel="stylesheet">
+        <link href="/css/main.css" rel="stylesheet">
        
     </head>
     <body>
-        <div id="example">
+        <div id="index">
             <script src="/js/app.js"></script>
         </div>
     </body>
